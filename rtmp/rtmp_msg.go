@@ -1,11 +1,11 @@
 package rtmp
 
 import (
-	"bbllive/util"
 	"bytes"
 	"encoding/json"
 	"errors"
 	"fmt"
+	"github.com/yingtu/bbllive/util"
 )
 
 var (

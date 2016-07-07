@@ -1,11 +1,11 @@
 package rtmp
 
 import (
-	"bbllive/util"
 	"bufio"
 	"bytes"
 	"errors"
 	"fmt"
+	"github.com/yingtu/bbllive/util"
 	"io"
 	//"io/ioutil"
 	"net"

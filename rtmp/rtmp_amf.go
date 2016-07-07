@@ -1,11 +1,11 @@
 package rtmp
 
 import (
-	"bbllive/util"
 	"bytes"
 	"encoding/binary"
 	"errors"
 	"fmt"
+	"github.com/yingtu/bbllive/util"
 )
 
 const (

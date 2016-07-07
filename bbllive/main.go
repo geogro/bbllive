@@ -2,8 +2,8 @@
 package main
 
 import (
-	"bbllive/rtmp"
 	"flag"
+	"github.com/yingtu/bbllive/rtmp"
 	"log"
 	"net/http"
 	_ "net/http/pprof"
