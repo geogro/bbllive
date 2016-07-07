@@ -2,7 +2,7 @@ package bbllive
 
 import (
 	log "github.com/cihub/seelog"
-	"github.com/kless/goconfig/config"
+	"github.com/vuleetu/goconfig/config"
 	"os"
 	"path/filepath"
 )
