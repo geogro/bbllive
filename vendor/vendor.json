@@ -1,0 +1,37 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "umyZIlyge1MFC5Vxg8KsWKjsLD4=",
+			"path": "github.com/cihub/seelog",
+			"revision": "752ef646ce438bc649b2bb565188471879185c33",
+			"revisionTime": "2016-06-20T11:38:37Z"
+		},
+		{
+			"checksumSHA1": "c9JgOWbMZBdxa7Ul5atmAXdcZT0=",
+			"path": "github.com/manucorporat/try",
+			"revision": "f1d4085c3502f76402ff2241ad4c65f36676469b",
+			"revisionTime": "2014-08-18T18:27:05Z"
+		},
+		{
+			"checksumSHA1": "Z+0QowZ40Rw0HTrDA3VZ+cyyxxM=",
+			"path": "github.com/sdming/gosnow",
+			"revision": "3a05c415e886bd8d06522975d2c3458eafe93f04",
+			"revisionTime": "2013-04-03T03:06:20Z"
+		},
+		{
+			"checksumSHA1": "Je20y0Kn3lDiOdnG18T5DXUumls=",
+			"path": "github.com/streamrail/concurrent-map",
+			"revision": "65a174a3a4188c0b7099acbc6cfa0c53628d3287",
+			"revisionTime": "2016-05-24T09:07:57Z"
+		},
+		{
+			"checksumSHA1": "xBD/9ebgpbTIgOj15fxLnVlziOk=",
+			"path": "github.com/vuleetu/goconfig/config",
+			"revision": "5eb5594b15a370066c71ce8c508c5d08b9d56edd",
+			"revisionTime": "2012-03-11T13:22:36Z"
+		}
+	],
+	"rootPath": "github.com/yingtu/bbllive"
+}
